@@ -513,3 +513,4 @@ C:\Users\Marcel\Documents\YourBank\bin\Debug\net8.0\Microsoft.AspNetCore.Identit
 C:\Users\Marcel\Documents\YourBank\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\Marcel\Documents\YourBank\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Marcel\Documents\YourBank\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Marcel\Documents\YourBank\obj\Debug\net8.0\YourBank.sourcelink.json

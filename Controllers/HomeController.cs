@@ -29,13 +29,12 @@ public class HomeController : Controller
         return View();
     }
 
-
-    [HttpGet]
     public IActionResult ListadoCuentas()
     {
-        var cuentas = _context.DataCuentas.ToList();
 
-        return View(cuentas);
+        var cuentassss = from o in _context.DataCuentas select o;
+
+        return View(cuentassss.ToList());
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
